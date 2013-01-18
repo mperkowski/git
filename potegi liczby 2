@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+  int main()
+{
+	int wynik=1;
+	
+	while (wynik<=2010)
+	
+	{
+		
+		printf("%i\n" , wynik);	
+		wynik=wynik*2;
+		
+	}
+	
+}
