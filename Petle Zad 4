@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main() 
+{
+int wynik=0, a, n;
+  	
+		scanf("%i", &n);
+	if (n>0)
+	{
+		
+		for (a=1; a<=n; a++)
+
+  			{
+			    wynik = wynik + a;
+  			}
+
+			printf("%i", wynik);
+	}
+	else
+		{
+			printf(" %i jest mniejsze od 0\n", n);
+		
+		}
+	
+
+
+}
