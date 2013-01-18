@@ -2,7 +2,7 @@
 
 int main() 
 {
-printf ("gowno\n");
+printf (":P\n");
 return 0;
 
 
